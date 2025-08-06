@@ -1,5 +1,5 @@
 public class Example {
     public static void testDebug() {
-        System.debug('testing');
+        System.debug('testing added');
     }
 }
